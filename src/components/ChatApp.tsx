@@ -215,7 +215,7 @@ export default function ChatApp({
               }}
               placeholder="Ask about your business taxes…"
               rows={1}
-              className="flex-1 resize-none rounded-xl border border-neutral-300 px-3 py-2 text-sm outline-none focus:border-neutral-500"
+              className="flex-1 resize-none rounded-xl border border-neutral-300 px-3 py-2 text-sm text-neutral-900 outline-none placeholder:text-neutral-400 focus:border-neutral-500"
             />
             <button
               type="submit"
